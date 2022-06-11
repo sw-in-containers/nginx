@@ -6,7 +6,7 @@
 
 This repository contains the source code of an Nginx image which was optimized for the use with Shopware.
 
-## PHP-FPM dependencies
+## PHP-FPM dependency
 
 This image expects PHP-FPM to run from a service by the name of `php-fpm` on port `9000`.
 

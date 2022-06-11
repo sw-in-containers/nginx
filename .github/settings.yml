@@ -3,9 +3,9 @@
 repository:
   # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
   name: php-fpm
-  description: ":elephant: PHP-FPM Docker image optimized for production use with Shopware."
+  description: ":globe_with_meridians: Nginx Docker image optimized for production use with Shopware."
   homepage: https://github.com/sw-in-containers
-  topics: php-fpm, production
+  topics: nginx, production
   private: false
   has_issues: true
   has_projects: false
