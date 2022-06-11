@@ -2,7 +2,7 @@
     <img src=".github/project-logo.svg" width="512px">
 </h1>
 
-# PHP-FPM
+# Nginx
 
 This repository contains the source code of an Nginx image which was optimized for the use with Shopware.
 
