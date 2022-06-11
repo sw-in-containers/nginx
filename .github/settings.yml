@@ -2,10 +2,10 @@
 
 repository:
   # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
-  name: project-template
-  description: ":heart: Provides a project template containing community health files for the @sw-in-containers organization."
+  name: php-fpm
+  description: ":elephant: PHP-FPM Docker image optimized for production use with Shopware."
   homepage: https://github.com/sw-in-containers
-  topics: project, template, community, health
+  topics: php-fpm, production
   private: false
   has_issues: true
   has_projects: false
