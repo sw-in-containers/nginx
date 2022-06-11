@@ -11,7 +11,5 @@ RUN touch /run/nginx.pid && chown shopware.shopware /run/nginx.pid
 COPY nginx.conf /etc/nginx/nginx.conf
 RUN rm -rf /etc/nginx/conf.d/default.conf
 
-COPY --from=build --chown=shopware /var/www/html /var/www/html
-
 WORKDIR /var/www/html
 USER shopware
