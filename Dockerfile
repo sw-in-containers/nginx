@@ -1,4 +1,4 @@
-FROM nginx:1.21.6-alpine
+FROM nginx:1.23.0-alpine
 
 # create non-root user
 RUN adduser -D -h /var/www/html shopware shopware
